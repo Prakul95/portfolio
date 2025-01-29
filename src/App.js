@@ -29,7 +29,7 @@ const projects = [
   {
     name: "Java TicTacToe app",
     description: "Developed a real-time multiplayer Tic-Tac-Toe application in Java, enabling seamless gameplay with an in-game reset feature for users to restart matches dynamically.",
-    link: "https://github.com/Prakul95/tiktactoe",
+    link: "https://github.com/Prakul95/tictactoe",
   },
   {
     name: "Login Demo using JWT tokens",
