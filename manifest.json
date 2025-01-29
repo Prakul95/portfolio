@@ -1,0 +1,15 @@
+{
+  "short_name": "Portfolio",
+  "name": "Prakul's Portfolio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
